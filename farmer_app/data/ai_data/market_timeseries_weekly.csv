@@ -1,0 +1,421 @@
+﻿date,product,market,price_VND_per_kg
+2024-01-01,Lúa (IR50404),Chợ đầu mối,48570
+2024-01-08,Lúa (IR50404),Chợ đầu mối,16162
+2024-01-15,Lúa (IR50404),Chợ đầu mối,14979
+2024-01-22,Lúa (IR50404),Chợ đầu mối,29172
+2024-01-29,Lúa (IR50404),Chợ đầu mối,11947
+2024-02-05,Lúa (IR50404),Chợ đầu mối,52364
+2024-02-12,Lúa (IR50404),Chợ đầu mối,14771
+2024-02-19,Lúa (IR50404),Chợ đầu mối,34598
+2024-02-26,Lúa (IR50404),Chợ đầu mối,25439
+2024-03-04,Lúa (IR50404),Chợ đầu mối,36999
+2024-03-11,Lúa (IR50404),Chợ đầu mối,10255
+2024-03-18,Lúa (IR50404),Chợ đầu mối,5319
+2024-03-25,Lúa (IR50404),Chợ đầu mối,35386
+2024-04-01,Lúa (IR50404),Chợ đầu mối,17059
+2024-04-08,Lúa (IR50404),Chợ đầu mối,22578
+2024-04-15,Lúa (IR50404),Chợ đầu mối,51708
+2024-04-22,Lúa (IR50404),Chợ đầu mối,4174
+2024-04-29,Lúa (IR50404),Chợ đầu mối,51900
+2024-05-06,Lúa (IR50404),Chợ đầu mối,58037
+2024-05-13,Lúa (IR50404),Chợ đầu mối,32258
+2024-05-20,Lúa (IR50404),Chợ đầu mối,35386
+2024-05-27,Lúa (IR50404),Chợ đầu mối,21642
+2024-06-03,Lúa (IR50404),Chợ đầu mối,10193
+2024-06-10,Lúa (IR50404),Chợ đầu mối,12829
+2024-06-17,Lúa (IR50404),Chợ đầu mối,30039
+2024-06-24,Lúa (IR50404),Chợ đầu mối,15621
+2024-07-01,Lúa (IR50404),Chợ đầu mối,55279
+2024-07-08,Lúa (IR50404),Chợ đầu mối,46716
+2024-07-15,Lúa (IR50404),Chợ đầu mối,12328
+2024-07-22,Lúa (IR50404),Chợ đầu mối,40484
+2024-07-29,Lúa (IR50404),Chợ đầu mối,48821
+2024-08-05,Lúa (IR50404),Chợ đầu mối,17860
+2024-08-12,Lúa (IR50404),Chợ đầu mối,28260
+2024-08-19,Lúa (IR50404),Chợ đầu mối,45901
+2024-08-26,Lúa (IR50404),Chợ đầu mối,35527
+2024-09-02,Lúa (IR50404),Chợ đầu mối,52118
+2024-09-09,Lúa (IR50404),Chợ đầu mối,18447
+2024-09-16,Lúa (IR50404),Chợ đầu mối,11230
+2024-09-23,Lúa (IR50404),Chợ đầu mối,53820
+2024-09-30,Lúa (IR50404),Chợ đầu mối,45283
+2024-10-07,Lúa (IR50404),Chợ đầu mối,30055
+2024-10-14,Lúa (IR50404),Chợ đầu mối,25256
+2024-10-21,Lúa (IR50404),Chợ đầu mối,22006
+2024-10-28,Lúa (IR50404),Chợ đầu mối,46435
+2024-11-04,Lúa (IR50404),Chợ đầu mối,24296
+2024-11-11,Lúa (IR50404),Chợ đầu mối,47802
+2024-11-18,Lúa (IR50404),Chợ đầu mối,55740
+2024-11-25,Lúa (IR50404),Chợ đầu mối,22391
+2024-12-02,Lúa (IR50404),Chợ đầu mối,64460
+2024-12-09,Lúa (IR50404),Chợ đầu mối,24951
+2024-12-16,Lúa (IR50404),Chợ đầu mối,42402
+2024-12-23,Lúa (IR50404),Chợ đầu mối,38437
+2024-12-30,Lúa (IR50404),Chợ đầu mối,55719
+2025-01-06,Lúa (IR50404),Chợ đầu mối,28161
+2025-01-13,Lúa (IR50404),Chợ đầu mối,9036
+2025-01-20,Lúa (IR50404),Chợ đầu mối,39093
+2025-01-27,Lúa (IR50404),Chợ đầu mối,12862
+2025-02-03,Lúa (IR50404),Chợ đầu mối,41467
+2025-02-10,Lúa (IR50404),Chợ đầu mối,43004
+2025-02-17,Lúa (IR50404),Chợ đầu mối,38219
+2025-02-24,Lúa (IR50404),Chợ đầu mối,29756
+2025-03-03,Lúa (IR50404),Chợ đầu mối,15317
+2025-03-10,Lúa (IR50404),Chợ đầu mối,63138
+2025-03-17,Lúa (IR50404),Chợ đầu mối,34074
+2025-03-24,Lúa (IR50404),Chợ đầu mối,40721
+2025-03-31,Lúa (IR50404),Chợ đầu mối,57344
+2025-04-07,Lúa (IR50404),Chợ đầu mối,54583
+2025-04-14,Lúa (IR50404),Chợ đầu mối,9404
+2025-04-21,Lúa (IR50404),Chợ đầu mối,8037
+2025-04-28,Lúa (IR50404),Chợ đầu mối,22449
+2025-05-05,Lúa (IR50404),Chợ đầu mối,6605
+2025-05-12,Lúa (IR50404),Chợ đầu mối,58486
+2025-05-19,Lúa (IR50404),Chợ đầu mối,39047
+2025-05-26,Lúa (IR50404),Chợ đầu mối,48798
+2025-06-02,Lúa (IR50404),Chợ đầu mối,57176
+2025-06-09,Lúa (IR50404),Chợ đầu mối,34554
+2025-06-16,Lúa (IR50404),Chợ đầu mối,14148
+2025-06-23,Lúa (IR50404),Chợ đầu mối,43068
+2025-06-30,Lúa (IR50404),Chợ đầu mối,45123
+2025-07-07,Lúa (IR50404),Chợ đầu mối,22368
+2025-07-14,Lúa (IR50404),Chợ đầu mối,24457
+2025-07-21,Lúa (IR50404),Chợ đầu mối,38672
+2025-07-28,Lúa (IR50404),Chợ đầu mối,57729
+2025-08-04,Lúa (IR50404),Chợ đầu mối,41328
+2025-08-11,Lúa (IR50404),Chợ đầu mối,33910
+2025-08-18,Lúa (IR50404),Chợ đầu mối,50392
+2025-08-25,Lúa (IR50404),Chợ đầu mối,53401
+2025-09-01,Lúa (IR50404),Chợ đầu mối,10372
+2025-09-08,Lúa (IR50404),Chợ đầu mối,52871
+2025-09-15,Lúa (IR50404),Chợ đầu mối,53292
+2025-09-22,Lúa (IR50404),Chợ đầu mối,9296
+2025-09-29,Lúa (IR50404),Chợ đầu mối,12709
+2025-10-06,Lúa (IR50404),Chợ đầu mối,14815
+2025-10-13,Lúa (IR50404),Chợ đầu mối,48614
+2025-10-20,Lúa (IR50404),Chợ đầu mối,9639
+2025-10-27,Lúa (IR50404),Chợ đầu mối,52542
+2025-11-03,Lúa (IR50404),Chợ đầu mối,53477
+2025-11-10,Lúa (IR50404),Chợ đầu mối,11430
+2025-11-17,Lúa (IR50404),Chợ đầu mối,51016
+2025-11-24,Lúa (IR50404),Chợ đầu mối,49565
+2025-12-01,Lúa (IR50404),Chợ đầu mối,18302
+2025-12-08,Lúa (IR50404),Chợ đầu mối,30505
+2025-12-15,Lúa (IR50404),Chợ đầu mối,39519
+2025-12-22,Lúa (IR50404),Chợ đầu mối,17488
+2025-12-29,Lúa (IR50404),Chợ đầu mối,14019
+2024-01-01,Thanh long,Chợ đầu mối,52500
+2024-01-08,Thanh long,Chợ đầu mối,54296
+2024-01-15,Thanh long,Chợ đầu mối,28972
+2024-01-22,Thanh long,Chợ đầu mối,25615
+2024-01-29,Thanh long,Chợ đầu mối,9839
+2024-02-05,Thanh long,Chợ đầu mối,54905
+2024-02-12,Thanh long,Chợ đầu mối,45256
+2024-02-19,Thanh long,Chợ đầu mối,39743
+2024-02-26,Thanh long,Chợ đầu mối,39924
+2024-03-04,Thanh long,Chợ đầu mối,11225
+2024-03-11,Thanh long,Chợ đầu mối,42018
+2024-03-18,Thanh long,Chợ đầu mối,28884
+2024-03-25,Thanh long,Chợ đầu mối,21061
+2024-04-01,Thanh long,Chợ đầu mối,42055
+2024-04-08,Thanh long,Chợ đầu mối,22636
+2024-04-15,Thanh long,Chợ đầu mối,4028
+2024-04-22,Thanh long,Chợ đầu mối,6308
+2024-04-29,Thanh long,Chợ đầu mối,10377
+2024-05-06,Thanh long,Chợ đầu mối,30490
+2024-05-13,Thanh long,Chợ đầu mối,14801
+2024-05-20,Thanh long,Chợ đầu mối,10346
+2024-05-27,Thanh long,Chợ đầu mối,61503
+2024-06-03,Thanh long,Chợ đầu mối,32822
+2024-06-10,Thanh long,Chợ đầu mối,26622
+2024-06-17,Thanh long,Chợ đầu mối,33399
+2024-06-24,Thanh long,Chợ đầu mối,21915
+2024-07-01,Thanh long,Chợ đầu mối,44010
+2024-07-08,Thanh long,Chợ đầu mối,15437
+2024-07-15,Thanh long,Chợ đầu mối,48058
+2024-07-22,Thanh long,Chợ đầu mối,17081
+2024-07-29,Thanh long,Chợ đầu mối,60438
+2024-08-05,Thanh long,Chợ đầu mối,9793
+2024-08-12,Thanh long,Chợ đầu mối,11827
+2024-08-19,Thanh long,Chợ đầu mối,24546
+2024-08-26,Thanh long,Chợ đầu mối,25656
+2024-09-02,Thanh long,Chợ đầu mối,43488
+2024-09-09,Thanh long,Chợ đầu mối,7044
+2024-09-16,Thanh long,Chợ đầu mối,19039
+2024-09-23,Thanh long,Chợ đầu mối,42938
+2024-09-30,Thanh long,Chợ đầu mối,57069
+2024-10-07,Thanh long,Chợ đầu mối,23197
+2024-10-14,Thanh long,Chợ đầu mối,32482
+2024-10-21,Thanh long,Chợ đầu mối,37432
+2024-10-28,Thanh long,Chợ đầu mối,55979
+2024-11-04,Thanh long,Chợ đầu mối,55346
+2024-11-11,Thanh long,Chợ đầu mối,13419
+2024-11-18,Thanh long,Chợ đầu mối,30567
+2024-11-25,Thanh long,Chợ đầu mối,23205
+2024-12-02,Thanh long,Chợ đầu mối,31412
+2024-12-09,Thanh long,Chợ đầu mối,58600
+2024-12-16,Thanh long,Chợ đầu mối,25466
+2024-12-23,Thanh long,Chợ đầu mối,58621
+2024-12-30,Thanh long,Chợ đầu mối,30678
+2025-01-06,Thanh long,Chợ đầu mối,11992
+2025-01-13,Thanh long,Chợ đầu mối,40172
+2025-01-20,Thanh long,Chợ đầu mối,35043
+2025-01-27,Thanh long,Chợ đầu mối,8591
+2025-02-03,Thanh long,Chợ đầu mối,52430
+2025-02-10,Thanh long,Chợ đầu mối,9955
+2025-02-17,Thanh long,Chợ đầu mối,22926
+2025-02-24,Thanh long,Chợ đầu mối,33621
+2025-03-03,Thanh long,Chợ đầu mối,34240
+2025-03-10,Thanh long,Chợ đầu mối,42343
+2025-03-17,Thanh long,Chợ đầu mối,37716
+2025-03-24,Thanh long,Chợ đầu mối,48490
+2025-03-31,Thanh long,Chợ đầu mối,13252
+2025-04-07,Thanh long,Chợ đầu mối,41222
+2025-04-14,Thanh long,Chợ đầu mối,37433
+2025-04-21,Thanh long,Chợ đầu mối,14005
+2025-04-28,Thanh long,Chợ đầu mối,24753
+2025-05-05,Thanh long,Chợ đầu mối,61845
+2025-05-12,Thanh long,Chợ đầu mối,59201
+2025-05-19,Thanh long,Chợ đầu mối,52094
+2025-05-26,Thanh long,Chợ đầu mối,28052
+2025-06-02,Thanh long,Chợ đầu mối,23235
+2025-06-09,Thanh long,Chợ đầu mối,10054
+2025-06-16,Thanh long,Chợ đầu mối,17209
+2025-06-23,Thanh long,Chợ đầu mối,11914
+2025-06-30,Thanh long,Chợ đầu mối,11770
+2025-07-07,Thanh long,Chợ đầu mối,36779
+2025-07-14,Thanh long,Chợ đầu mối,27410
+2025-07-21,Thanh long,Chợ đầu mối,15802
+2025-07-28,Thanh long,Chợ đầu mối,28680
+2025-08-04,Thanh long,Chợ đầu mối,35641
+2025-08-11,Thanh long,Chợ đầu mối,36035
+2025-08-18,Thanh long,Chợ đầu mối,60350
+2025-08-25,Thanh long,Chợ đầu mối,10716
+2025-09-01,Thanh long,Chợ đầu mối,58918
+2025-09-08,Thanh long,Chợ đầu mối,62600
+2025-09-15,Thanh long,Chợ đầu mối,7904
+2025-09-22,Thanh long,Chợ đầu mối,60968
+2025-09-29,Thanh long,Chợ đầu mối,13967
+2025-10-06,Thanh long,Chợ đầu mối,52139
+2025-10-13,Thanh long,Chợ đầu mối,30059
+2025-10-20,Thanh long,Chợ đầu mối,37551
+2025-10-27,Thanh long,Chợ đầu mối,50327
+2025-11-03,Thanh long,Chợ đầu mối,21974
+2025-11-10,Thanh long,Chợ đầu mối,8848
+2025-11-17,Thanh long,Chợ đầu mối,37689
+2025-11-24,Thanh long,Chợ đầu mối,57032
+2025-12-01,Thanh long,Chợ đầu mối,20649
+2025-12-08,Thanh long,Chợ đầu mối,34614
+2025-12-15,Thanh long,Chợ đầu mối,57329
+2025-12-22,Thanh long,Chợ đầu mối,11556
+2025-12-29,Thanh long,Chợ đầu mối,9361
+2024-01-01,Cà phê (Robusta),Chợ đầu mối,13689
+2024-01-08,Cà phê (Robusta),Chợ đầu mối,60761
+2024-01-15,Cà phê (Robusta),Chợ đầu mối,33058
+2024-01-22,Cà phê (Robusta),Chợ đầu mối,46438
+2024-01-29,Cà phê (Robusta),Chợ đầu mối,46464
+2024-02-05,Cà phê (Robusta),Chợ đầu mối,21076
+2024-02-12,Cà phê (Robusta),Chợ đầu mối,5456
+2024-02-19,Cà phê (Robusta),Chợ đầu mối,21750
+2024-02-26,Cà phê (Robusta),Chợ đầu mối,33615
+2024-03-04,Cà phê (Robusta),Chợ đầu mối,12243
+2024-03-11,Cà phê (Robusta),Chợ đầu mối,11878
+2024-03-18,Cà phê (Robusta),Chợ đầu mối,34125
+2024-03-25,Cà phê (Robusta),Chợ đầu mối,19210
+2024-04-01,Cà phê (Robusta),Chợ đầu mối,35122
+2024-04-08,Cà phê (Robusta),Chợ đầu mối,36255
+2024-04-15,Cà phê (Robusta),Chợ đầu mối,32077
+2024-04-22,Cà phê (Robusta),Chợ đầu mối,17724
+2024-04-29,Cà phê (Robusta),Chợ đầu mối,19104
+2024-05-06,Cà phê (Robusta),Chợ đầu mối,23813
+2024-05-13,Cà phê (Robusta),Chợ đầu mối,33946
+2024-05-20,Cà phê (Robusta),Chợ đầu mối,10800
+2024-05-27,Cà phê (Robusta),Chợ đầu mối,49132
+2024-06-03,Cà phê (Robusta),Chợ đầu mối,24909
+2024-06-10,Cà phê (Robusta),Chợ đầu mối,26926
+2024-06-17,Cà phê (Robusta),Chợ đầu mối,35011
+2024-06-24,Cà phê (Robusta),Chợ đầu mối,35392
+2024-07-01,Cà phê (Robusta),Chợ đầu mối,11539
+2024-07-08,Cà phê (Robusta),Chợ đầu mối,29725
+2024-07-15,Cà phê (Robusta),Chợ đầu mối,32607
+2024-07-22,Cà phê (Robusta),Chợ đầu mối,49923
+2024-07-29,Cà phê (Robusta),Chợ đầu mối,24995
+2024-08-05,Cà phê (Robusta),Chợ đầu mối,60523
+2024-08-12,Cà phê (Robusta),Chợ đầu mối,55750
+2024-08-19,Cà phê (Robusta),Chợ đầu mối,31508
+2024-08-26,Cà phê (Robusta),Chợ đầu mối,39396
+2024-09-02,Cà phê (Robusta),Chợ đầu mối,58682
+2024-09-09,Cà phê (Robusta),Chợ đầu mối,30679
+2024-09-16,Cà phê (Robusta),Chợ đầu mối,39058
+2024-09-23,Cà phê (Robusta),Chợ đầu mối,31167
+2024-09-30,Cà phê (Robusta),Chợ đầu mối,15497
+2024-10-07,Cà phê (Robusta),Chợ đầu mối,29288
+2024-10-14,Cà phê (Robusta),Chợ đầu mối,18093
+2024-10-21,Cà phê (Robusta),Chợ đầu mối,58930
+2024-10-28,Cà phê (Robusta),Chợ đầu mối,11203
+2024-11-04,Cà phê (Robusta),Chợ đầu mối,41124
+2024-11-11,Cà phê (Robusta),Chợ đầu mối,58539
+2024-11-18,Cà phê (Robusta),Chợ đầu mối,20061
+2024-11-25,Cà phê (Robusta),Chợ đầu mối,12092
+2024-12-02,Cà phê (Robusta),Chợ đầu mối,48523
+2024-12-09,Cà phê (Robusta),Chợ đầu mối,25338
+2024-12-16,Cà phê (Robusta),Chợ đầu mối,57454
+2024-12-23,Cà phê (Robusta),Chợ đầu mối,55369
+2024-12-30,Cà phê (Robusta),Chợ đầu mối,44409
+2025-01-06,Cà phê (Robusta),Chợ đầu mối,28175
+2025-01-13,Cà phê (Robusta),Chợ đầu mối,16977
+2025-01-20,Cà phê (Robusta),Chợ đầu mối,44936
+2025-01-27,Cà phê (Robusta),Chợ đầu mối,59274
+2025-02-03,Cà phê (Robusta),Chợ đầu mối,42499
+2025-02-10,Cà phê (Robusta),Chợ đầu mối,52481
+2025-02-17,Cà phê (Robusta),Chợ đầu mối,45318
+2025-02-24,Cà phê (Robusta),Chợ đầu mối,17424
+2025-03-03,Cà phê (Robusta),Chợ đầu mối,19868
+2025-03-10,Cà phê (Robusta),Chợ đầu mối,41559
+2025-03-17,Cà phê (Robusta),Chợ đầu mối,19022
+2025-03-24,Cà phê (Robusta),Chợ đầu mối,6726
+2025-03-31,Cà phê (Robusta),Chợ đầu mối,9086
+2025-04-07,Cà phê (Robusta),Chợ đầu mối,44722
+2025-04-14,Cà phê (Robusta),Chợ đầu mối,9118
+2025-04-21,Cà phê (Robusta),Chợ đầu mối,34830
+2025-04-28,Cà phê (Robusta),Chợ đầu mối,30270
+2025-05-05,Cà phê (Robusta),Chợ đầu mối,17771
+2025-05-12,Cà phê (Robusta),Chợ đầu mối,27284
+2025-05-19,Cà phê (Robusta),Chợ đầu mối,58737
+2025-05-26,Cà phê (Robusta),Chợ đầu mối,7582
+2025-06-02,Cà phê (Robusta),Chợ đầu mối,17985
+2025-06-09,Cà phê (Robusta),Chợ đầu mối,50842
+2025-06-16,Cà phê (Robusta),Chợ đầu mối,55156
+2025-06-23,Cà phê (Robusta),Chợ đầu mối,63285
+2025-06-30,Cà phê (Robusta),Chợ đầu mối,28007
+2025-07-07,Cà phê (Robusta),Chợ đầu mối,33407
+2025-07-14,Cà phê (Robusta),Chợ đầu mối,34225
+2025-07-21,Cà phê (Robusta),Chợ đầu mối,12878
+2025-07-28,Cà phê (Robusta),Chợ đầu mối,25918
+2025-08-04,Cà phê (Robusta),Chợ đầu mối,13732
+2025-08-11,Cà phê (Robusta),Chợ đầu mối,55073
+2025-08-18,Cà phê (Robusta),Chợ đầu mối,60630
+2025-08-25,Cà phê (Robusta),Chợ đầu mối,40747
+2025-09-01,Cà phê (Robusta),Chợ đầu mối,25720
+2025-09-08,Cà phê (Robusta),Chợ đầu mối,54448
+2025-09-15,Cà phê (Robusta),Chợ đầu mối,53980
+2025-09-22,Cà phê (Robusta),Chợ đầu mối,57999
+2025-09-29,Cà phê (Robusta),Chợ đầu mối,23582
+2025-10-06,Cà phê (Robusta),Chợ đầu mối,43533
+2025-10-13,Cà phê (Robusta),Chợ đầu mối,30810
+2025-10-20,Cà phê (Robusta),Chợ đầu mối,54015
+2025-10-27,Cà phê (Robusta),Chợ đầu mối,13300
+2025-11-03,Cà phê (Robusta),Chợ đầu mối,51278
+2025-11-10,Cà phê (Robusta),Chợ đầu mối,54198
+2025-11-17,Cà phê (Robusta),Chợ đầu mối,33811
+2025-11-24,Cà phê (Robusta),Chợ đầu mối,7113
+2025-12-01,Cà phê (Robusta),Chợ đầu mối,45584
+2025-12-08,Cà phê (Robusta),Chợ đầu mối,61513
+2025-12-15,Cà phê (Robusta),Chợ đầu mối,23215
+2025-12-22,Cà phê (Robusta),Chợ đầu mối,41415
+2025-12-29,Cà phê (Robusta),Chợ đầu mối,37169
+2024-01-01,Cà chua,Chợ đầu mối,25840
+2024-01-08,Cà chua,Chợ đầu mối,21938
+2024-01-15,Cà chua,Chợ đầu mối,25814
+2024-01-22,Cà chua,Chợ đầu mối,45919
+2024-01-29,Cà chua,Chợ đầu mối,62836
+2024-02-05,Cà chua,Chợ đầu mối,48134
+2024-02-12,Cà chua,Chợ đầu mối,32863
+2024-02-19,Cà chua,Chợ đầu mối,22597
+2024-02-26,Cà chua,Chợ đầu mối,20408
+2024-03-04,Cà chua,Chợ đầu mối,28571
+2024-03-11,Cà chua,Chợ đầu mối,55963
+2024-03-18,Cà chua,Chợ đầu mối,50723
+2024-03-25,Cà chua,Chợ đầu mối,9816
+2024-04-01,Cà chua,Chợ đầu mối,35656
+2024-04-08,Cà chua,Chợ đầu mối,17792
+2024-04-15,Cà chua,Chợ đầu mối,38916
+2024-04-22,Cà chua,Chợ đầu mối,30991
+2024-04-29,Cà chua,Chợ đầu mối,28928
+2024-05-06,Cà chua,Chợ đầu mối,61743
+2024-05-13,Cà chua,Chợ đầu mối,59925
+2024-05-20,Cà chua,Chợ đầu mối,48008
+2024-05-27,Cà chua,Chợ đầu mối,17855
+2024-06-03,Cà chua,Chợ đầu mối,8603
+2024-06-10,Cà chua,Chợ đầu mối,22991
+2024-06-17,Cà chua,Chợ đầu mối,26526
+2024-06-24,Cà chua,Chợ đầu mối,10970
+2024-07-01,Cà chua,Chợ đầu mối,27293
+2024-07-08,Cà chua,Chợ đầu mối,29424
+2024-07-15,Cà chua,Chợ đầu mối,52085
+2024-07-22,Cà chua,Chợ đầu mối,40113
+2024-07-29,Cà chua,Chợ đầu mối,30513
+2024-08-05,Cà chua,Chợ đầu mối,47669
+2024-08-12,Cà chua,Chợ đầu mối,49923
+2024-08-19,Cà chua,Chợ đầu mối,37121
+2024-08-26,Cà chua,Chợ đầu mối,19288
+2024-09-02,Cà chua,Chợ đầu mối,33241
+2024-09-09,Cà chua,Chợ đầu mối,7838
+2024-09-16,Cà chua,Chợ đầu mối,26881
+2024-09-23,Cà chua,Chợ đầu mối,19302
+2024-09-30,Cà chua,Chợ đầu mối,53730
+2024-10-07,Cà chua,Chợ đầu mối,55243
+2024-10-14,Cà chua,Chợ đầu mối,26295
+2024-10-21,Cà chua,Chợ đầu mối,24385
+2024-10-28,Cà chua,Chợ đầu mối,19852
+2024-11-04,Cà chua,Chợ đầu mối,9970
+2024-11-11,Cà chua,Chợ đầu mối,45473
+2024-11-18,Cà chua,Chợ đầu mối,62561
+2024-11-25,Cà chua,Chợ đầu mối,14011
+2024-12-02,Cà chua,Chợ đầu mối,27178
+2024-12-09,Cà chua,Chợ đầu mối,32240
+2024-12-16,Cà chua,Chợ đầu mối,28226
+2024-12-23,Cà chua,Chợ đầu mối,49381
+2024-12-30,Cà chua,Chợ đầu mối,36613
+2025-01-06,Cà chua,Chợ đầu mối,10066
+2025-01-13,Cà chua,Chợ đầu mối,18461
+2025-01-20,Cà chua,Chợ đầu mối,47714
+2025-01-27,Cà chua,Chợ đầu mối,12748
+2025-02-03,Cà chua,Chợ đầu mối,59743
+2025-02-10,Cà chua,Chợ đầu mối,26964
+2025-02-17,Cà chua,Chợ đầu mối,38369
+2025-02-24,Cà chua,Chợ đầu mối,48991
+2025-03-03,Cà chua,Chợ đầu mối,14730
+2025-03-10,Cà chua,Chợ đầu mối,42333
+2025-03-17,Cà chua,Chợ đầu mối,18655
+2025-03-24,Cà chua,Chợ đầu mối,31524
+2025-03-31,Cà chua,Chợ đầu mối,19378
+2025-04-07,Cà chua,Chợ đầu mối,8580
+2025-04-14,Cà chua,Chợ đầu mối,36127
+2025-04-21,Cà chua,Chợ đầu mối,22615
+2025-04-28,Cà chua,Chợ đầu mối,60558
+2025-05-05,Cà chua,Chợ đầu mối,40982
+2025-05-12,Cà chua,Chợ đầu mối,18871
+2025-05-19,Cà chua,Chợ đầu mối,10539
+2025-05-26,Cà chua,Chợ đầu mối,50103
+2025-06-02,Cà chua,Chợ đầu mối,60899
+2025-06-09,Cà chua,Chợ đầu mối,35462
+2025-06-16,Cà chua,Chợ đầu mối,22945
+2025-06-23,Cà chua,Chợ đầu mối,10667
+2025-06-30,Cà chua,Chợ đầu mối,61415
+2025-07-07,Cà chua,Chợ đầu mối,35321
+2025-07-14,Cà chua,Chợ đầu mối,52416
+2025-07-21,Cà chua,Chợ đầu mối,42963
+2025-07-28,Cà chua,Chợ đầu mối,37160
+2025-08-04,Cà chua,Chợ đầu mối,11908
+2025-08-11,Cà chua,Chợ đầu mối,59747
+2025-08-18,Cà chua,Chợ đầu mối,41084
+2025-08-25,Cà chua,Chợ đầu mối,42051
+2025-09-01,Cà chua,Chợ đầu mối,52983
+2025-09-08,Cà chua,Chợ đầu mối,14148
+2025-09-15,Cà chua,Chợ đầu mối,56801
+2025-09-22,Cà chua,Chợ đầu mối,16198
+2025-09-29,Cà chua,Chợ đầu mối,18964
+2025-10-06,Cà chua,Chợ đầu mối,12118
+2025-10-13,Cà chua,Chợ đầu mối,31887
+2025-10-20,Cà chua,Chợ đầu mối,51835
+2025-10-27,Cà chua,Chợ đầu mối,21870
+2025-11-03,Cà chua,Chợ đầu mối,18065
+2025-11-10,Cà chua,Chợ đầu mối,23019
+2025-11-17,Cà chua,Chợ đầu mối,51699
+2025-11-24,Cà chua,Chợ đầu mối,12382
+2025-12-01,Cà chua,Chợ đầu mối,43216
+2025-12-08,Cà chua,Chợ đầu mối,42350
+2025-12-15,Cà chua,Chợ đầu mối,25858
+2025-12-22,Cà chua,Chợ đầu mối,33626
+2025-12-29,Cà chua,Chợ đầu mối,60151

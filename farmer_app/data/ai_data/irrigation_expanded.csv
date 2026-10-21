@@ -1,0 +1,186 @@
+﻿crop_id,crop_name,province,recommended_schedule,water_saving_methods,notes
+C003-ĐắkLắk,Cà phê (Robusta),Đắk Lắk,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C012-ĐắkLắk,Hành tím,Đắk Lắk,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C006-HàNội,Ớt,Hà Nội,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C007-NinhTh,Dưa hấu,Ninh Thuận,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C012-BắcNin,Hành tím,Bắc Ninh,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C007-HàNội,Dưa hấu,Hà Nội,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C003-HảiPhò,Cà phê (Robusta),Hải Phòng,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C002-AnGian,Ngô,An Giang,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C012-HàNội,Hành tím,Hà Nội,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C011-HảiPhò,Khoai tây,Hải Phòng,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C008-BìnhDư,Xoài,Bình Dương,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C005-TiềnGi,Cà chua,Tiền Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C002-BìnhTh,Ngô,Bình Thuận,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C013-BìnhTh,Hồ tiêu,Bình Thuận,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C012-AnGian,Hành tím,An Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C002-NinhTh,Ngô,Ninh Thuận,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C006-QuảngN,Ớt,Quảng Nam,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C013-HàNội,Hồ tiêu,Hà Nội,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C008-NinhTh,Xoài,Ninh Thuận,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C005-AnGian,Cà chua,An Giang,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C005-HảiPhò,Cà chua,Hải Phòng,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C008-HàTĩnh,Xoài,Hà Tĩnh,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C012-HảiPhò,Hành tím,Hải Phòng,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C003-LâmĐồn,Cà phê (Robusta),Lâm Đồng,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C003-AnGian,Cà phê (Robusta),An Giang,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C006-BắcNin,Ớt,Bắc Ninh,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C004-HảiPhò,Thanh long,Hải Phòng,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C011-BìnhTh,Khoai tây,Bình Thuận,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C006-NinhTh,Ớt,Ninh Thuận,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C003-GiaLai,Cà phê (Robusta),Gia Lai,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C010-ĐắkLắk,Rau muống,Đắk Lắk,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C002-KiênGi,Ngô,Kiên Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C009-LâmĐồn,Khoai lang,Lâm Đồng,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C001-TháiBì,Lúa,Thái Bình,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C001-GiaLai,Lúa,Gia Lai,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C009-QuảngN,Khoai lang,Quảng Nam,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C004-BìnhTh,Thanh long,Bình Thuận,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C004-KiênGi,Thanh long,Kiên Giang,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C005-BắcNin,Cà chua,Bắc Ninh,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C004-BìnhDư,Thanh long,Bình Dương,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C001-HàTĩnh,Lúa,Hà Tĩnh,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C011-AnGian,Khoai tây,An Giang,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C005-TháiBì,Cà chua,Thái Bình,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C010-HàNội,Rau muống,Hà Nội,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C001-BìnhTh,Lúa,Bình Thuận,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C009-HàNội,Khoai lang,Hà Nội,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C003-BìnhTh,Cà phê (Robusta),Bình Thuận,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C006-BìnhTh,Ớt,Bình Thuận,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C009-TháiBì,Khoai lang,Thái Bình,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C006-HàTĩnh,Ớt,Hà Tĩnh,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C009-AnGian,Khoai lang,An Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C010-HàTĩnh,Rau muống,Hà Tĩnh,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C006-AnGian,Ớt,An Giang,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C002-TiềnGi,Ngô,Tiền Giang,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C011-BìnhDư,Khoai tây,Bình Dương,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C012-BìnhTh,Hành tím,Bình Thuận,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C004-NinhTh,Thanh long,Ninh Thuận,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C012-QuảngN,Hành tím,Quảng Nam,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C009-BìnhTh,Khoai lang,Bình Thuận,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C001-BắcNin,Lúa,Bắc Ninh,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C010-BìnhTh,Rau muống,Bình Thuận,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C011-NinhTh,Khoai tây,Ninh Thuận,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C009-KiênGi,Khoai lang,Kiên Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C007-TháiBì,Dưa hấu,Thái Bình,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C008-HàNội,Xoài,Hà Nội,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C002-TháiBì,Ngô,Thái Bình,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C010-QuảngN,Rau muống,Quảng Nam,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C009-HàTĩnh,Khoai lang,Hà Tĩnh,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C001-QuảngN,Lúa,Quảng Nam,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C011-KiênGi,Khoai tây,Kiên Giang,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C010-BìnhDư,Rau muống,Bình Dương,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C012-HàTĩnh,Hành tím,Hà Tĩnh,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C012-GiaLai,Hành tím,Gia Lai,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C006-KiênGi,Ớt,Kiên Giang,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C005-BìnhDư,Cà chua,Bình Dương,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C011-HàNội,Khoai tây,Hà Nội,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C002-QuảngN,Ngô,Quảng Nam,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C012-LâmĐồn,Hành tím,Lâm Đồng,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C011-BắcNin,Khoai tây,Bắc Ninh,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C003-KiênGi,Cà phê (Robusta),Kiên Giang,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C002-ĐắkLắk,Ngô,Đắk Lắk,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C002-BắcNin,Ngô,Bắc Ninh,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C007-BìnhTh,Dưa hấu,Bình Thuận,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C007-KiênGi,Dưa hấu,Kiên Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C008-BắcNin,Xoài,Bắc Ninh,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C011-HàTĩnh,Khoai tây,Hà Tĩnh,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C012-NinhTh,Hành tím,Ninh Thuận,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C001-HảiPhò,Lúa,Hải Phòng,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C012-KiênGi,Hành tím,Kiên Giang,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C001-ĐắkLắk,Lúa,Đắk Lắk,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C003-BìnhDư,Cà phê (Robusta),Bình Dương,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C007-ĐắkLắk,Dưa hấu,Đắk Lắk,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C009-BắcNin,Khoai lang,Bắc Ninh,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C004-LâmĐồn,Thanh long,Lâm Đồng,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C004-QuảngN,Thanh long,Quảng Nam,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C009-ĐắkLắk,Khoai lang,Đắk Lắk,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C006-TiềnGi,Ớt,Tiền Giang,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C009-BìnhDư,Khoai lang,Bình Dương,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C009-HảiPhò,Khoai lang,Hải Phòng,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C008-HảiPhò,Xoài,Hải Phòng,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C007-HàTĩnh,Dưa hấu,Hà Tĩnh,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C004-AnGian,Thanh long,An Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C005-KiênGi,Cà chua,Kiên Giang,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C003-QuảngN,Cà phê (Robusta),Quảng Nam,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C003-TháiBì,Cà phê (Robusta),Thái Bình,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C009-GiaLai,Khoai lang,Gia Lai,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C007-GiaLai,Dưa hấu,Gia Lai,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C001-BìnhDư,Lúa,Bình Dương,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C012-TháiBì,Hành tím,Thái Bình,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C012-BìnhDư,Hành tím,Bình Dương,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C004-TiềnGi,Thanh long,Tiền Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C011-QuảngN,Khoai tây,Quảng Nam,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C008-KiênGi,Xoài,Kiên Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C007-BìnhDư,Dưa hấu,Bình Dương,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C002-HảiPhò,Ngô,Hải Phòng,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C005-BìnhTh,Cà chua,Bình Thuận,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C011-ĐắkLắk,Khoai tây,Đắk Lắk,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C003-TiềnGi,Cà phê (Robusta),Tiền Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C008-ĐắkLắk,Xoài,Đắk Lắk,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C006-TháiBì,Ớt,Thái Bình,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C010-KiênGi,Rau muống,Kiên Giang,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C013-AnGian,Hồ tiêu,An Giang,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C010-TiềnGi,Rau muống,Tiền Giang,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C011-GiaLai,Khoai tây,Gia Lai,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C006-BìnhDư,Ớt,Bình Dương,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C007-LâmĐồn,Dưa hấu,Lâm Đồng,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C010-HảiPhò,Rau muống,Hải Phòng,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C001-NinhTh,Lúa,Ninh Thuận,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C004-HàNội,Thanh long,Hà Nội,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C002-LâmĐồn,Ngô,Lâm Đồng,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C005-QuảngN,Cà chua,Quảng Nam,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C013-GiaLai,Hồ tiêu,Gia Lai,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C001-TiềnGi,Lúa,Tiền Giang,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C008-TháiBì,Xoài,Thái Bình,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C005-HàNội,Cà chua,Hà Nội,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C001-LâmĐồn,Lúa,Lâm Đồng,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C003-HàNội,Cà phê (Robusta),Hà Nội,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C005-LâmĐồn,Cà chua,Lâm Đồng,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C011-LâmĐồn,Khoai tây,Lâm Đồng,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C011-TiềnGi,Khoai tây,Tiền Giang,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C006-LâmĐồn,Ớt,Lâm Đồng,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C007-HảiPhò,Dưa hấu,Hải Phòng,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C005-HàTĩnh,Cà chua,Hà Tĩnh,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C002-HàTĩnh,Ngô,Hà Tĩnh,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C004-ĐắkLắk,Thanh long,Đắk Lắk,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C007-QuảngN,Dưa hấu,Quảng Nam,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C010-TháiBì,Rau muống,Thái Bình,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C004-GiaLai,Thanh long,Gia Lai,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C010-BắcNin,Rau muống,Bắc Ninh,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C001-KiênGi,Lúa,Kiên Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C003-NinhTh,Cà phê (Robusta),Ninh Thuận,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C006-ĐắkLắk,Ớt,Đắk Lắk,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C010-LâmĐồn,Rau muống,Lâm Đồng,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C004-BắcNin,Thanh long,Bắc Ninh,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C009-TiềnGi,Khoai lang,Tiền Giang,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C002-BìnhDư,Ngô,Bình Dương,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C003-HàTĩnh,Cà phê (Robusta),Hà Tĩnh,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C008-TiềnGi,Xoài,Tiền Giang,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C007-BắcNin,Dưa hấu,Bắc Ninh,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C002-HàNội,Ngô,Hà Nội,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C004-TháiBì,Thanh long,Thái Bình,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C006-HảiPhò,Ớt,Hải Phòng,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C005-ĐắkLắk,Cà chua,Đắk Lắk,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C010-GiaLai,Rau muống,Gia Lai,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C009-NinhTh,Khoai lang,Ninh Thuận,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C008-LâmĐồn,Xoài,Lâm Đồng,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C001-HàNội,Lúa,Hà Nội,Tưới nhỏ giọt 2 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C001-AnGian,Lúa,An Giang,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C005-NinhTh,Cà chua,Ninh Thuận,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C010-AnGian,Rau muống,An Giang,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C005-GiaLai,Cà chua,Gia Lai,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C002-GiaLai,Ngô,Gia Lai,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C011-TháiBì,Khoai tây,Thái Bình,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C012-TiềnGi,Hành tím,Tiền Giang,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C008-BìnhTh,Xoài,Bình Thuận,Tưới bù hạn theo nhu cầu cây,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C007-TiềnGi,Dưa hấu,Tiền Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,AWD cho lúa,Theo điều kiện thời tiết điều chỉnh
+C006-GiaLai,Ớt,Gia Lai,Tưới nhỏ giọt 2 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C004-HàTĩnh,Thanh long,Hà Tĩnh,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C003-BắcNin,Cà phê (Robusta),Bắc Ninh,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C013-ĐắkLắk,Hồ tiêu,Đắk Lắk,Tưới bù hạn theo nhu cầu cây,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C010-NinhTh,Rau muống,Ninh Thuận,Tưới sáng sớm/chiều mát 3 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C007-AnGian,Dưa hấu,An Giang,Tưới sáng sớm/chiều mát 3 lần/tuần,Phủ gốc hữu cơ,Theo điều kiện thời tiết điều chỉnh
+C008-GiaLai,Xoài,Gia Lai,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C008-AnGian,Xoài,An Giang,Tưới nhỏ giọt 2 lần/tuần,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh
+C008-QuảngN,Xoài,Quảng Nam,Tưới bù hạn theo nhu cầu cây,Tưới nhỏ giọt,Theo điều kiện thời tiết điều chỉnh

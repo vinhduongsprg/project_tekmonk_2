@@ -1,0 +1,30 @@
+[
+  {
+    "id": "custom",
+    "label": "Custom",
+    "base_url": "",
+    "model": "",
+    "temperature": 0.3
+  },
+  {
+    "id": "openai_default",
+    "label": "OpenAI (default)",
+    "base_url": "https://api.openai.com/v1",
+    "model": "gpt-4o-mini",
+    "temperature": 0.3
+  },
+  {
+    "id": "deepseek_manual",
+    "label": "DeepSeek (manual)",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-chat",
+    "temperature": 0.3
+  },
+  {
+    "id": "gemini_manual",
+    "label": "Gemini (manual)",
+    "base_url": "https://generativelanguage.googleapis.com",
+    "model": "gemini-3-flash-preview",
+    "temperature": 0.3
+  }
+]

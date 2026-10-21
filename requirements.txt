@@ -1,0 +1,6 @@
+# Farmer Desktop App Dependencies
+pyside6>=6.5.0
+requests>=2.28.0
+feedparser>=6.0.0
+scikit-learn>=1.2.0
+svg.path>=6.3

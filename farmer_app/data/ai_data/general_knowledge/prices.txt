@@ -1,0 +1,37 @@
+Thông tin giá cả nông sản Việt Nam
+
+Giá lúa:
+- Giá thóc: 6.000-8.000 VNĐ/kg
+- Giá gạo: 12.000-18.000 VNĐ/kg
+- Giá gạo xuất khẩu: 15.000-22.000 VNĐ/kg
+
+Giá cà phê:
+- Cà phê nhân: 70.000-90.000 VNĐ/kg
+- Cà phê rang xay: 120.000-180.000 VNĐ/kg
+- Cà phê hòa tan: 80.000-120.000 VNĐ/kg
+
+Giá cao su:
+- Mủ cao su tươi: 15.000-25.000 VNĐ/kg
+- Cao su khô: 30.000-45.000 VNĐ/kg
+
+Giá điều:
+- Điều nhân: 80.000-120.000 VNĐ/kg
+- Điều vỏ lụa: 60.000-90.000 VNĐ/kg
+
+Giá hồ tiêu:
+- Hồ tiêu đen: 70.000-100.000 VNĐ/kg
+- Hồ tiêu trắng: 90.000-130.000 VNĐ/kg
+
+Yếu tố ảnh hưởng giá cả:
+- Thời tiết: hạn hán, lũ lụt
+- Nhu cầu thị trường: trong nước và xuất khẩu
+- Chi phí sản xuất: phân bón, công
+- Chính sách nhà nước: trợ giá, thuế
+- Tình hình quốc tế: giá cả thế giới
+
+Thời điểm giá tốt:
+- Lúa: sau thu hoạch vụ đông xuân
+- Cà phê: tháng 10-12
+- Cao su: mùa khô
+- Điều: tháng 3-5
+- Hồ tiêu: tháng 6-8

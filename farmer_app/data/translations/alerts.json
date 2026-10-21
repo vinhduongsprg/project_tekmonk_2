@@ -1,0 +1,9 @@
+{
+  "high_temperature": "Nhiệt độ cao",
+  "low_temperature": "Nhiệt độ thấp",
+  "heavy_rain": "Mưa lớn",
+  "strong_wind": "Gió mạnh",
+  "uv_index_high": "Chỉ số UV cao",
+  "flood_warning": "Cảnh báo lũ lụt",
+  "drought_warning": "Cảnh báo hạn hán"
+}

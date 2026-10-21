@@ -1,0 +1,60 @@
+{
+  "location": {
+    "province": "Hà Nội",
+    "region": "Miền Bắc",
+    "coordinates": [
+      21.0285,
+      105.8542
+    ]
+  },
+  "weather": {
+    "api_key": "56071066f1fb48ebb6e40739261801",
+    "update_interval": 30,
+    "units": "metric"
+  },
+  "connectivity": {
+    "check_interval": 5
+  },
+  "news": {
+    "update_interval": 6,
+    "sources": [
+      "https://nongnghiepmoitruong.vn/feed.rss",
+      "https://nongnghiepnongthon.com/feed"
+    ]
+  },
+  "ai": {
+    "api_key": "AIzaSyD3wz_DhAcPsiYB5TWI6UwaSnGGT6x-7ug",
+    "base_url": "https://generativelanguage.googleapis.com",
+    "model": "gemini-3-flash-preview",
+    "temperature": 0.3,
+    "system_prompt": "Bạn là trợ lý nông nghiệp. Trả lời ngắn gọn, rõ ràng, ưu tiên an toàn.",
+    "preset": {
+      "base_url": "https://generativelanguage.googleapis.com",
+      "id": "gemini_manual",
+      "label": "Gemini (manual)",
+      "model": "gemini-3-flash-preview",
+      "temperature": 0.3
+    }
+  },
+  "ui": {
+    "language": "vi",
+    "theme": "light",
+    "window_size": [
+      1326,
+      776
+    ],
+    "window_position": [
+      98,
+      72
+    ]
+  },
+  "calendar": {
+    "first_day_of_week": 1,
+    "time_format": "24h"
+  },
+  "app": {
+    "version": "1.0.0",
+    "first_run": true,
+    "last_update": "2026-04-14T12:55:57"
+  }
+}

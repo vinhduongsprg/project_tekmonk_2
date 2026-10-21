@@ -1,0 +1,50 @@
+{
+  "last_updated": "31/12/2025 11:17",
+  "items": [
+    {
+      "name": "Lúa IR 50404 (tươi)",
+      "category": "Lúa gạo",
+      "price": "5.300-5.400",
+      "unit": "VNĐ/kg",
+      "region": "Nam",
+      "updated_at": "27/12/2025",
+      "source": "vietnam.vn"
+    },
+    {
+      "name": "Gạo thành phẩm IR 50404",
+      "category": "Lúa gạo",
+      "price": "9.500-9.700",
+      "unit": "VNĐ/kg",
+      "region": "Nam",
+      "updated_at": "27/12/2025",
+      "source": "vietnam.vn"
+    },
+    {
+      "name": "Cà phê (Tây Nguyên)",
+      "category": "Cà phê",
+      "price": "95.200-96.700",
+      "unit": "VNĐ/kg",
+      "region": "Trung",
+      "updated_at": "26/12/2025",
+      "source": "congthuong.vn"
+    },
+    {
+      "name": "Hồ tiêu",
+      "category": "Hồ tiêu",
+      "price": "149.500-151.500",
+      "unit": "VNĐ/kg",
+      "region": "Nam",
+      "updated_at": "31/12/2025 11:17",
+      "source": "baonghean.vn"
+    },
+    {
+      "name": "Cao su (OSE Nhật Bản)",
+      "category": "Cao su",
+      "price": "325",
+      "unit": "yen/kg",
+      "region": "Toàn quốc",
+      "updated_at": "25/08/2025",
+      "source": "vietnambiz.vn"
+    }
+  ]
+}

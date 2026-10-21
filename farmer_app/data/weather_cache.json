@@ -1,0 +1,51 @@
+{
+  "cached_at": "2026-04-14T05:06:37.835002+00:00",
+  "location": {
+    "name": "Province De Hà Tĩnh",
+    "region": "",
+    "country": "Vietnam",
+    "lat": 18.3333,
+    "lon": 105.9,
+    "tz_id": "Asia/Bangkok",
+    "localtime_epoch": 1776143204,
+    "localtime": "2026-04-14 12:06"
+  },
+  "current": {
+    "last_updated_epoch": 1776142800,
+    "last_updated": "2026-04-14 12:00",
+    "temp_c": 35.3,
+    "temp_f": 95.5,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 10.1,
+    "wind_kph": 16.2,
+    "wind_degree": 65,
+    "wind_dir": "ENE",
+    "pressure_mb": 1006.0,
+    "pressure_in": 29.7,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 45,
+    "cloud": 4,
+    "feelslike_c": 40.2,
+    "feelslike_f": 104.3,
+    "windchill_c": 35.3,
+    "windchill_f": 95.5,
+    "heatindex_c": 40.2,
+    "heatindex_f": 104.3,
+    "dewpoint_c": 21.6,
+    "dewpoint_f": 71.0,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 9.4,
+    "gust_mph": 11.6,
+    "gust_kph": 18.7
+  },
+  "source": "live",
+  "age_minutes": 0.0,
+  "stale": false
+}

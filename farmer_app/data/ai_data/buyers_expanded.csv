@@ -1,0 +1,151 @@
+﻿buyer_id,name,type,region,district,contact,price_range_VND_per_kg,min_order_kg,notes
+B1001,Chế biến An Giang 1,Chế biến,An Giang,Châu Đốc,0902606474,6465-44887,1000,Thu mua tại ruộng
+B1002,Công ty An Giang 2,Công ty,An Giang,Chợ Mới,0930980500,7785-41031,2000,Thu mua tại ruộng
+B1003,Thương lái An Giang 3,Thương lái,An Giang,Chợ Mới,0981219136,3982-43316,200,Thu mua tại kho
+B1004,XNK An Giang 4,XNK,An Giang,Long Xuyên,0916998543,5573-23215,500,Thu mua tại ruộng
+B1005,Công ty An Giang 5,Công ty,An Giang,Chợ Mới,0975107991,3600-40834,200,Hỗ trợ thu gom
+B1006,HTX An Giang 6,HTX,An Giang,Chợ Mới,0951354278,5478-42142,100,Hỗ trợ thu gom
+B1007,Thương lái An Giang 7,Thương lái,An Giang,Châu Đốc,0924118244,7954-23757,500,Hỗ trợ thu gom
+B1008,XNK An Giang 8,XNK,An Giang,Châu Đốc,0974016400,5732-16305,500,Yêu cầu chất lượng ổn
+B1009,XNK An Giang 9,XNK,An Giang,Long Xuyên,0968011280,6024-44234,200,Thu mua tại ruộng
+B1010,Thương lái An Giang 10,Thương lái,An Giang,Chợ Mới,0945053315,7586-36218,2000,Thu mua tại ruộng
+B1011,HTX Bình Thuận 1,HTX,Bình Thuận,Phan Thiết,0922602563,5185-17618,100,Thu mua tại kho
+B1012,Chế biến Bình Thuận 2,Chế biến,Bình Thuận,Phan Thiết,0933754330,4582-32695,500,Thu mua tại kho
+B1013,Công ty Bình Thuận 3,Công ty,Bình Thuận,Hàm Thuận Nam,0958685014,4462-23859,100,Yêu cầu chất lượng ổn
+B1014,Công ty Bình Thuận 4,Công ty,Bình Thuận,Hàm Thuận Nam,0956981693,5086-9994,1000,Thu mua tại ruộng
+B1015,Công ty Bình Thuận 5,Công ty,Bình Thuận,Phan Thiết,0961595148,5533-34297,500,Hỗ trợ thu gom
+B1016,XNK Bình Thuận 6,XNK,Bình Thuận,Phan Thiết,0923662994,6326-44235,100,Hỗ trợ thu gom
+B1017,HTX Bình Thuận 7,HTX,Bình Thuận,Tánh Linh,0969957773,7187-40197,200,Thu mua tại kho
+B1018,Công ty Bình Thuận 8,Công ty,Bình Thuận,Hàm Thuận Nam,0989513433,4207-7807,100,Yêu cầu chất lượng ổn
+B1019,XNK Bình Thuận 9,XNK,Bình Thuận,Hàm Thuận Nam,0917693676,4998-16669,100,Yêu cầu chất lượng ổn
+B1020,HTX Bình Thuận 10,HTX,Bình Thuận,Tánh Linh,0928708317,4092-36542,2000,Hỗ trợ thu gom
+B1021,Chế biến Đắk Lắk 1,Chế biến,Đắk Lắk,Ea H'leo,0998687277,5123-23326,500,Yêu cầu chất lượng ổn
+B1022,HTX Đắk Lắk 2,HTX,Đắk Lắk,Buôn Ma Thuột,0947143455,7424-14704,200,Thu mua tại ruộng
+B1023,Chế biến Đắk Lắk 3,Chế biến,Đắk Lắk,Buôn Đôn,0923166587,6406-12486,200,Yêu cầu chất lượng ổn
+B1024,XNK Đắk Lắk 4,XNK,Đắk Lắk,Ea H'leo,0909670546,6432-43704,2000,Thu mua tại ruộng
+B1025,Chế biến Đắk Lắk 5,Chế biến,Đắk Lắk,Ea H'leo,0934670656,4352-36982,200,Thu mua tại kho
+B1026,Chế biến Đắk Lắk 6,Chế biến,Đắk Lắk,Buôn Đôn,0999016272,3411-22460,1000,Thu mua tại ruộng
+B1027,Chế biến Đắk Lắk 7,Chế biến,Đắk Lắk,Buôn Đôn,0955646417,3158-40509,100,Thu mua tại ruộng
+B1028,Thương lái Đắk Lắk 8,Thương lái,Đắk Lắk,Ea H'leo,0900330923,4034-37069,100,Thu mua tại ruộng
+B1029,Chế biến Đắk Lắk 9,Chế biến,Đắk Lắk,Buôn Đôn,0945299124,3885-43809,100,Yêu cầu chất lượng ổn
+B1030,Chế biến Đắk Lắk 10,Chế biến,Đắk Lắk,Ea H'leo,0931931491,7636-12327,500,Yêu cầu chất lượng ổn
+B1031,Công ty Gia Lai 1,Công ty,Gia Lai,An Khê,0918506716,5967-38096,200,Thu mua tại ruộng
+B1032,XNK Gia Lai 2,XNK,Gia Lai,An Khê,0949877694,5640-23728,100,Yêu cầu chất lượng ổn
+B1033,HTX Gia Lai 3,HTX,Gia Lai,An Khê,0979965075,4489-38441,200,Hỗ trợ thu gom
+B1034,Công ty Gia Lai 4,Công ty,Gia Lai,Chư Sê,0949480831,4977-33612,1000,Thu mua tại ruộng
+B1035,Chế biến Gia Lai 5,Chế biến,Gia Lai,Chư Sê,0977014363,5508-31692,1000,Hỗ trợ thu gom
+B1036,Chế biến Gia Lai 6,Chế biến,Gia Lai,Pleiku,0985574443,3988-18609,500,Thu mua tại ruộng
+B1037,HTX Gia Lai 7,HTX,Gia Lai,An Khê,0937498941,4590-26004,200,Thu mua tại ruộng
+B1038,Công ty Gia Lai 8,Công ty,Gia Lai,Pleiku,0908240084,4034-38204,100,Hỗ trợ thu gom
+B1039,Chế biến Gia Lai 9,Chế biến,Gia Lai,Pleiku,0977520471,3535-31795,1000,Thu mua tại kho
+B1040,HTX Gia Lai 10,HTX,Gia Lai,An Khê,0929413186,7966-24756,2000,Yêu cầu chất lượng ổn
+B1041,Chế biến Hà Nội 1,Chế biến,Hà Nội,Hoàng Mai,0949649909,3812-19429,200,Thu mua tại kho
+B1042,HTX Hà Nội 2,HTX,Hà Nội,Ba Đình,0932812067,7864-40660,500,Thu mua tại ruộng
+B1043,Công ty Hà Nội 3,Công ty,Hà Nội,Đông Anh,0947134936,3940-41628,200,Thu mua tại ruộng
+B1044,Công ty Hà Nội 4,Công ty,Hà Nội,Đông Anh,0921024994,6597-16746,1000,Hỗ trợ thu gom
+B1045,Chế biến Hà Nội 5,Chế biến,Hà Nội,Hoàng Mai,0948877190,6539-29662,2000,Thu mua tại kho
+B1046,Thương lái Hà Nội 6,Thương lái,Hà Nội,Hoàng Mai,0939904902,6854-42864,1000,Thu mua tại ruộng
+B1047,XNK Hà Nội 7,XNK,Hà Nội,Hoàng Mai,0967175655,3856-16395,500,Yêu cầu chất lượng ổn
+B1048,Công ty Hà Nội 8,Công ty,Hà Nội,Ba Đình,0968071545,3949-32437,2000,Yêu cầu chất lượng ổn
+B1049,Chế biến Hà Nội 9,Chế biến,Hà Nội,Ba Đình,0903859770,4667-24168,2000,Hỗ trợ thu gom
+B1050,Chế biến Hà Nội 10,Chế biến,Hà Nội,Ba Đình,0971093248,3112-41304,1000,Thu mua tại ruộng
+B1051,Thương lái Hải Phòng 1,Thương lái,Hải Phòng,An Lão,0971274846,6952-39899,200,Thu mua tại ruộng
+B1052,Chế biến Hải Phòng 2,Chế biến,Hải Phòng,An Lão,0939821465,7159-26668,100,Hỗ trợ thu gom
+B1053,XNK Hải Phòng 3,XNK,Hải Phòng,An Lão,0997278755,7521-45135,1000,Hỗ trợ thu gom
+B1054,HTX Hải Phòng 4,HTX,Hải Phòng,An Lão,0939636057,6123-33425,200,Thu mua tại kho
+B1055,HTX Hải Phòng 5,HTX,Hải Phòng,Kiến An,0989517187,3125-14572,1000,Thu mua tại ruộng
+B1056,Thương lái Hải Phòng 6,Thương lái,Hải Phòng,Kiến An,0974596158,6113-28865,1000,Thu mua tại kho
+B1057,XNK Hải Phòng 7,XNK,Hải Phòng,Đồ Sơn,0913431611,6634-19536,500,Thu mua tại kho
+B1058,Công ty Hải Phòng 8,Công ty,Hải Phòng,Đồ Sơn,0904556238,6375-45463,200,Thu mua tại ruộng
+B1059,Thương lái Hải Phòng 9,Thương lái,Hải Phòng,An Lão,0996937923,6777-25421,1000,Thu mua tại kho
+B1060,Chế biến Hải Phòng 10,Chế biến,Hải Phòng,An Lão,0948217594,6475-24865,1000,Thu mua tại ruộng
+B1061,Chế biến Hà Tĩnh 1,Chế biến,Hà Tĩnh,Nghi Xuân,0971369594,5418-8855,1000,Thu mua tại kho
+B1062,XNK Hà Tĩnh 2,XNK,Hà Tĩnh,Thạch Hà,0909743953,4557-22982,200,Thu mua tại kho
+B1063,Thương lái Hà Tĩnh 3,Thương lái,Hà Tĩnh,Hồng Lĩnh,0947095214,5676-34906,200,Thu mua tại ruộng
+B1064,XNK Hà Tĩnh 4,XNK,Hà Tĩnh,Hồng Lĩnh,0958842474,5774-15321,1000,Thu mua tại ruộng
+B1065,HTX Hà Tĩnh 5,HTX,Hà Tĩnh,Thạch Hà,0968516048,4012-35816,500,Hỗ trợ thu gom
+B1066,XNK Hà Tĩnh 6,XNK,Hà Tĩnh,Thạch Hà,0965137098,5687-22194,100,Yêu cầu chất lượng ổn
+B1067,Công ty Hà Tĩnh 7,Công ty,Hà Tĩnh,Hồng Lĩnh,0961200471,3796-21183,2000,Yêu cầu chất lượng ổn
+B1068,Chế biến Hà Tĩnh 8,Chế biến,Hà Tĩnh,Thạch Hà,0958692617,6343-26676,100,Hỗ trợ thu gom
+B1069,HTX Hà Tĩnh 9,HTX,Hà Tĩnh,Hồng Lĩnh,0977351585,3496-31588,500,Thu mua tại kho
+B1070,Chế biến Hà Tĩnh 10,Chế biến,Hà Tĩnh,Thạch Hà,0913900532,7625-23073,100,Thu mua tại ruộng
+B1071,XNK Kiên Giang 1,XNK,Kiên Giang,Rạch Giá,0933529042,4064-41467,500,Thu mua tại kho
+B1072,Thương lái Kiên Giang 2,Thương lái,Kiên Giang,An Minh,0920539502,5173-10607,200,Yêu cầu chất lượng ổn
+B1073,XNK Kiên Giang 3,XNK,Kiên Giang,An Minh,0911775891,6702-41721,200,Thu mua tại kho
+B1074,XNK Kiên Giang 4,XNK,Kiên Giang,Rạch Giá,0947007661,7016-38085,100,Hỗ trợ thu gom
+B1075,XNK Kiên Giang 5,XNK,Kiên Giang,Hòn Đất,0921249985,6120-42890,500,Yêu cầu chất lượng ổn
+B1076,Thương lái Kiên Giang 6,Thương lái,Kiên Giang,An Minh,0918367365,6715-34846,1000,Thu mua tại kho
+B1077,Công ty Kiên Giang 7,Công ty,Kiên Giang,Rạch Giá,0965452711,3699-11808,1000,Hỗ trợ thu gom
+B1078,HTX Kiên Giang 8,HTX,Kiên Giang,Hòn Đất,0980988516,5896-35613,100,Hỗ trợ thu gom
+B1079,Công ty Kiên Giang 9,Công ty,Kiên Giang,Rạch Giá,0919832731,5868-44323,500,Hỗ trợ thu gom
+B1080,XNK Kiên Giang 10,XNK,Kiên Giang,Hòn Đất,0936899809,5190-9087,200,Hỗ trợ thu gom
+B1081,Công ty Lâm Đồng 1,Công ty,Lâm Đồng,Đà Lạt,0950229612,3251-11264,2000,Yêu cầu chất lượng ổn
+B1082,Chế biến Lâm Đồng 2,Chế biến,Lâm Đồng,Đà Lạt,0975254599,3695-9142,200,Thu mua tại kho
+B1083,Thương lái Lâm Đồng 3,Thương lái,Lâm Đồng,Bảo Lộc,0947679764,4765-40342,100,Yêu cầu chất lượng ổn
+B1084,Thương lái Lâm Đồng 4,Thương lái,Lâm Đồng,Đà Lạt,0949784036,7909-13499,100,Hỗ trợ thu gom
+B1085,HTX Lâm Đồng 5,HTX,Lâm Đồng,Đơn Dương,0924451076,4439-14905,1000,Thu mua tại ruộng
+B1086,XNK Lâm Đồng 6,XNK,Lâm Đồng,Bảo Lộc,0985160607,3637-26153,2000,Yêu cầu chất lượng ổn
+B1087,Chế biến Lâm Đồng 7,Chế biến,Lâm Đồng,Đà Lạt,0941605297,5964-13739,1000,Thu mua tại ruộng
+B1088,Chế biến Lâm Đồng 8,Chế biến,Lâm Đồng,Đơn Dương,0996816453,5728-18746,100,Thu mua tại kho
+B1089,XNK Lâm Đồng 9,XNK,Lâm Đồng,Đơn Dương,0983552312,5096-20024,200,Thu mua tại ruộng
+B1090,Thương lái Lâm Đồng 10,Thương lái,Lâm Đồng,Bảo Lộc,0927799799,5647-28365,200,Thu mua tại kho
+B1091,Chế biến Tiền Giang 1,Chế biến,Tiền Giang,Mỹ Tho,0974490581,5542-37802,1000,Thu mua tại kho
+B1092,Công ty Tiền Giang 2,Công ty,Tiền Giang,Gò Công,0941199867,7754-46081,100,Thu mua tại ruộng
+B1093,Công ty Tiền Giang 3,Công ty,Tiền Giang,Mỹ Tho,0997820715,3690-38756,200,Thu mua tại ruộng
+B1094,Chế biến Tiền Giang 4,Chế biến,Tiền Giang,Cai Lậy,0978892554,6173-34962,500,Thu mua tại kho
+B1095,Công ty Tiền Giang 5,Công ty,Tiền Giang,Cai Lậy,0915186449,4231-28078,100,Thu mua tại ruộng
+B1096,Công ty Tiền Giang 6,Công ty,Tiền Giang,Mỹ Tho,0946291486,5690-16065,2000,Yêu cầu chất lượng ổn
+B1097,XNK Tiền Giang 7,XNK,Tiền Giang,Mỹ Tho,0950542357,4572-21418,200,Thu mua tại kho
+B1098,Công ty Tiền Giang 8,Công ty,Tiền Giang,Mỹ Tho,0918880592,7892-34580,200,Thu mua tại ruộng
+B1099,XNK Tiền Giang 9,XNK,Tiền Giang,Cai Lậy,0927065379,5334-36754,200,Thu mua tại ruộng
+B1100,Công ty Tiền Giang 10,Công ty,Tiền Giang,Mỹ Tho,0973597746,7119-43686,1000,Thu mua tại ruộng
+B1101,XNK Thái Bình 1,XNK,Thái Bình,Tiền Hải,0924075818,4021-24702,100,Hỗ trợ thu gom
+B1102,Chế biến Thái Bình 2,Chế biến,Thái Bình,Kiến Xương,0982613750,6398-11888,1000,Hỗ trợ thu gom
+B1103,HTX Thái Bình 3,HTX,Thái Bình,Đông Hưng,0961530515,4196-15213,100,Yêu cầu chất lượng ổn
+B1104,HTX Thái Bình 4,HTX,Thái Bình,Kiến Xương,0977901043,4224-42190,2000,Yêu cầu chất lượng ổn
+B1105,Thương lái Thái Bình 5,Thương lái,Thái Bình,Đông Hưng,0943410369,6744-12860,100,Thu mua tại kho
+B1106,XNK Thái Bình 6,XNK,Thái Bình,Tiền Hải,0993246095,4970-44369,1000,Thu mua tại kho
+B1107,XNK Thái Bình 7,XNK,Thái Bình,Kiến Xương,0951888880,6198-39008,100,Yêu cầu chất lượng ổn
+B1108,Công ty Thái Bình 8,Công ty,Thái Bình,Đông Hưng,0940515319,5723-16466,100,Hỗ trợ thu gom
+B1109,HTX Thái Bình 9,HTX,Thái Bình,Tiền Hải,0977221704,4651-9521,200,Hỗ trợ thu gom
+B1110,Công ty Thái Bình 10,Công ty,Thái Bình,Đông Hưng,0986874034,5924-11056,500,Thu mua tại kho
+B1111,Công ty Quảng Nam 1,Công ty,Quảng Nam,Tam Kỳ,0966765277,6009-42040,500,Yêu cầu chất lượng ổn
+B1112,Thương lái Quảng Nam 2,Thương lái,Quảng Nam,Hội An,0969284511,5686-27061,500,Yêu cầu chất lượng ổn
+B1113,HTX Quảng Nam 3,HTX,Quảng Nam,Hội An,0975705964,3469-10386,1000,Thu mua tại ruộng
+B1114,Thương lái Quảng Nam 4,Thương lái,Quảng Nam,Tam Kỳ,0929702135,5966-33056,2000,Thu mua tại ruộng
+B1115,Chế biến Quảng Nam 5,Chế biến,Quảng Nam,Tam Kỳ,0955719285,6260-28863,500,Thu mua tại kho
+B1116,Thương lái Quảng Nam 6,Thương lái,Quảng Nam,Hội An,0927868144,6655-22717,2000,Yêu cầu chất lượng ổn
+B1117,HTX Quảng Nam 7,HTX,Quảng Nam,Núi Thành,0912172715,5846-12101,2000,Hỗ trợ thu gom
+B1118,Công ty Quảng Nam 8,Công ty,Quảng Nam,Hội An,0922583132,4939-39315,100,Hỗ trợ thu gom
+B1119,Chế biến Quảng Nam 9,Chế biến,Quảng Nam,Núi Thành,0982911467,7306-36227,1000,Thu mua tại kho
+B1120,HTX Quảng Nam 10,HTX,Quảng Nam,Hội An,0951778528,7815-21740,200,Thu mua tại kho
+B1121,Thương lái Ninh Thuận 1,Thương lái,Ninh Thuận,Ninh Hải,0982422535,7250-27865,100,Thu mua tại ruộng
+B1122,XNK Ninh Thuận 2,XNK,Ninh Thuận,Thuận Bắc,0942498182,7848-19953,200,Hỗ trợ thu gom
+B1123,XNK Ninh Thuận 3,XNK,Ninh Thuận,Thuận Bắc,0900109439,6412-10396,1000,Hỗ trợ thu gom
+B1124,Công ty Ninh Thuận 4,Công ty,Ninh Thuận,Ninh Hải,0973647102,6601-35839,1000,Thu mua tại ruộng
+B1125,Công ty Ninh Thuận 5,Công ty,Ninh Thuận,Ninh Hải,0992555625,7218-46026,100,Thu mua tại ruộng
+B1126,Chế biến Ninh Thuận 6,Chế biến,Ninh Thuận,Phan Rang,0914732104,6146-35548,200,Hỗ trợ thu gom
+B1127,XNK Ninh Thuận 7,XNK,Ninh Thuận,Ninh Hải,0953278774,7074-10592,100,Yêu cầu chất lượng ổn
+B1128,HTX Ninh Thuận 8,HTX,Ninh Thuận,Phan Rang,0939500479,6855-27581,2000,Thu mua tại kho
+B1129,Chế biến Ninh Thuận 9,Chế biến,Ninh Thuận,Ninh Hải,0924565060,7671-46490,200,Hỗ trợ thu gom
+B1130,Thương lái Ninh Thuận 10,Thương lái,Ninh Thuận,Ninh Hải,0968784991,4054-12390,1000,Hỗ trợ thu gom
+B1131,XNK Bắc Ninh 1,XNK,Bắc Ninh,Yên Phong,0952398680,3371-7921,200,Hỗ trợ thu gom
+B1132,Chế biến Bắc Ninh 2,Chế biến,Bắc Ninh,Yên Phong,0987298259,5609-18258,1000,Hỗ trợ thu gom
+B1133,XNK Bắc Ninh 3,XNK,Bắc Ninh,Yên Phong,0958887947,3136-29276,500,Thu mua tại kho
+B1134,Chế biến Bắc Ninh 4,Chế biến,Bắc Ninh,Lương Tài,0994097499,4864-10229,2000,Thu mua tại ruộng
+B1135,XNK Bắc Ninh 5,XNK,Bắc Ninh,Lương Tài,0996230913,3155-34058,500,Thu mua tại ruộng
+B1136,Chế biến Bắc Ninh 6,Chế biến,Bắc Ninh,Yên Phong,0936897028,4698-43456,500,Yêu cầu chất lượng ổn
+B1137,XNK Bắc Ninh 7,XNK,Bắc Ninh,Từ Sơn,0965278585,5165-38896,200,Hỗ trợ thu gom
+B1138,XNK Bắc Ninh 8,XNK,Bắc Ninh,Lương Tài,0943443757,5857-44589,500,Thu mua tại kho
+B1139,XNK Bắc Ninh 9,XNK,Bắc Ninh,Yên Phong,0986652404,3647-28346,1000,Hỗ trợ thu gom
+B1140,Chế biến Bắc Ninh 10,Chế biến,Bắc Ninh,Từ Sơn,0933848421,7807-25488,200,Thu mua tại ruộng
+B1141,HTX Bình Dương 1,HTX,Bình Dương,Bàu Bàng,0901657120,7508-19858,1000,Yêu cầu chất lượng ổn
+B1142,Chế biến Bình Dương 2,Chế biến,Bình Dương,Dầu Tiếng,0934540193,7383-11827,200,Thu mua tại ruộng
+B1143,Thương lái Bình Dương 3,Thương lái,Bình Dương,Dầu Tiếng,0967240049,7937-16969,500,Yêu cầu chất lượng ổn
+B1144,XNK Bình Dương 4,XNK,Bình Dương,Bàu Bàng,0987287431,5708-18357,1000,Hỗ trợ thu gom
+B1145,HTX Bình Dương 5,HTX,Bình Dương,Thủ Dầu Một,0905493296,6503-42272,500,Yêu cầu chất lượng ổn
+B1146,Thương lái Bình Dương 6,Thương lái,Bình Dương,Dầu Tiếng,0922753046,4929-36206,500,Hỗ trợ thu gom
+B1147,XNK Bình Dương 7,XNK,Bình Dương,Bàu Bàng,0990453017,5513-17980,1000,Hỗ trợ thu gom
+B1148,Thương lái Bình Dương 8,Thương lái,Bình Dương,Bàu Bàng,0945933272,6727-33212,1000,Yêu cầu chất lượng ổn
+B1149,XNK Bình Dương 9,XNK,Bình Dương,Thủ Dầu Một,0933918785,3639-42612,100,Thu mua tại ruộng
+B1150,XNK Bình Dương 10,XNK,Bình Dương,Bàu Bàng,0982258713,7777-41812,100,Yêu cầu chất lượng ổn
