@@ -8,7 +8,7 @@
     ]
   },
   "weather": {
-    "api_key": "56071066f1fb48ebb6e40739261801",
+    "api_key": "",
     "update_interval": 30,
     "units": "metric"
   },
@@ -23,7 +23,7 @@
     ]
   },
   "ai": {
-    "api_key": "AIzaSyD3wz_DhAcPsiYB5TWI6UwaSnGGT6x-7ug",
+    "api_key": "",
     "base_url": "https://generativelanguage.googleapis.com",
     "model": "gemini-3-flash-preview",
     "temperature": 0.3,
