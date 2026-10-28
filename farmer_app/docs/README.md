@@ -23,10 +23,10 @@ Option 2: Run the command `python farmer_app/app.py`.
 
 ## API Configuration
 - Weather (powered by WeatherAPI):
- - Go to **Settings → Weather** and enter your `WeatherAPI key`.
+  - Go to **Settings → Weather** and enter your `WeatherAPI key`.
 - AI Assistant (Online AI):
- - Go to **Settings → AI Assistant** and enter:
-  - API key
-  - Base URL
-  - Model
- - Alternatively, select a preset (e.g., OpenAI, Gemini, or DeepSeek, if available).
+  - Go to **Settings → AI Assistant** and enter:
+   - API key
+   - Base URL
+   - Model
+  - Alternatively, select a preset (e.g., OpenAI, Gemini, or DeepSeek, if available).
